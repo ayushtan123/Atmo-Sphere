@@ -28,6 +28,8 @@ OpenWeather -> https://openweathermap.org/api
 
 ![Screenshot 2024-01-08 122452](https://github.com/ayushtan123/Atmo-Sphere/assets/121681555/cd73f9f9-d5f3-4479-9969-d5ea78fbfafd)
 
+![Screenshot 2024-05-09 173050](https://github.com/ayushtan123/Atmo-Sphere/assets/121681555/c7c3056a-b243-4c7a-92e9-ae7d96987ea4)
+
 ![Screenshot 2024-01-08 122503](https://github.com/ayushtan123/Atmo-Sphere/assets/121681555/70ef5663-785d-4260-b11d-0c7fcf9ca0c6)
 
 
